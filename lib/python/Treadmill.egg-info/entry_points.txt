@@ -286,3 +286,5 @@ presence = treadmill.services.presence_service:PresenceResourceService
 container-cleanup = treadmill.monitor:MonitorContainerCleanup
 node-down = treadmill.monitor:MonitorNodeDown
 container-down = treadmill.monitor:MonitorContainerDown
+
+[treadmill.version_monitor]

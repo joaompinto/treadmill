@@ -4,6 +4,7 @@
 docs/api
 docs/build
 dist/
+venv/
 
 # Examples
 examples/oom/oom
@@ -33,4 +34,3 @@ lib/python/*.egg-info/*
 # Ignore build files
 lint.log
 pep8.log
-
